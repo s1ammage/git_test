@@ -1,0 +1,1 @@
+This is S1ammage’s first git project!
